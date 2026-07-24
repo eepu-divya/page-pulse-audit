@@ -238,12 +238,15 @@ GitHub Actions automatically:
 - Cloud deployment with Kubernetes
 
 ---
+## Live Demo
 
-## AI Usage Statement
+### API
 
-AI tools (ChatGPT) were used to assist with understanding FastAPI concepts, improving project structure, debugging issues, and reviewing documentation. The implementation, testing, modifications, and final verification of the project were completed manually.
+https://page-pulse-audit-vc0o.onrender.com
 
----
+### Swagger Documentation
+
+https://page-pulse-audit-vc0o.onrender.com/docs
 
 ## Author
 
