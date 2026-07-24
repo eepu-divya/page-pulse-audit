@@ -70,7 +70,7 @@ page-pulse-audit/
 Clone the repository
 
 ```bash
-git clone https://github.com/<YOUR_GITHUB_USERNAME>/page-pulse-audit.git
+git clone https://github.com/eepu-divya/page-pulse-audit.git
 ```
 
 Move to the project directory
