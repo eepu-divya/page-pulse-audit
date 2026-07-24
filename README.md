@@ -60,7 +60,6 @@ page-pulse-audit/
 ├── requirements.txt
 ├── README.md
 ├── .gitignore
-└── .env
 ```
 
 ---
